@@ -1,1 +1,12 @@
 # my-gallery
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Photo</title>
+</head>
+<body>
+  <h1>Моята снимка</h1>
+  <img src="cat.jpg" alt="My cat" width="400">
+</body>
+</html>
