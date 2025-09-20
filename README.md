@@ -10,3 +10,6 @@
   <img src="IMG_6596 copy.jpg" alt="My picture" width="400">
 </body>
 </html>
+ <img src="dc077a723c0de75a7380a07af4f80609.jpg" alt="My picture" width="400">
+</body>
+</html>
