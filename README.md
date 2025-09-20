@@ -7,6 +7,6 @@
 </head>
 <body>
   <h1>Моята снимка</h1>
-  <img src="cat.jpg" alt="My cat" width="400">
+  <img src="IMG_6596 copy.jpg" alt="My picture" width="400">
 </body>
 </html>
